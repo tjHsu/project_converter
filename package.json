@@ -1,0 +1,25 @@
+{
+  "name": "paidy-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjHsu/paidy-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjHsu/paidy-project/issues"
+  },
+  "homepage": "https://github.com/tjHsu/paidy-project#readme",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  },
+  "dependencies": {
+    "validator": "^13.6.0"
+  }
+}
